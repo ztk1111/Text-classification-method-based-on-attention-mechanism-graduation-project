@@ -1,0 +1,2 @@
+BERT模型使用MiniRBT-h256
+数据集为THUCNews
